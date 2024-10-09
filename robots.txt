@@ -2,5 +2,5 @@ User-Agent: *
 Disallow:
 
 
-Sitemap: http://pinaz.runhobby.com.ua/sitemap.xml
-Host: pinaz.runhobby.com.ua
+Sitemap: http://pinaz.runhobby.com/sitemap.xml
+Host: pinaz.runhobby.com
